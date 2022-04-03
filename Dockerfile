@@ -3,7 +3,7 @@ FROM ubuntu:20.04
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
 
-ENV TZ=Asia/Kolkata
+ENV TZ=Asia/Shanghai
 RUN ln -snf "/usr/share/zoneinfo/$TZ" /etc/localtime
 RUN echo "$TZ" > /etc/timezone
 

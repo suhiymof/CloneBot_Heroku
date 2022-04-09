@@ -106,5 +106,5 @@ def get_sa(update, context):
     with open(os.path.join(zip_path, 'rclone.conf'), 'w') as file_to_write:
         config_file.write(file_to_write)
 
-    update.message.reply_text('✔️ A total of {} SA files were received and configured to use in Clone Bot. \n │ Now bookmark your favorite folders with /folders'.format(json_count))
+    update.message.reply_text('✔️ A total of {} SA files were received and configured to use in Clone Rot. \n │ Now bookmark your favorite folders with /folders'.format(json_count))
     logger.info('{} Service Accounts have been saved for the User {}.'.format(json_count, update.effective_user.id))

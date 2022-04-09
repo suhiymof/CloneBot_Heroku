@@ -22,7 +22,7 @@ class _Config:
         self._gclone_para_override = ''
         self._base_path = os.path.dirname(os.path.dirname(__file__))
         self.TIMER_TO_DELETE_MESSAGE = 20
-        self.AD_STRING = ' Goodbye, Please talk to the Bot<a href="{}"> privately.</a>'
+        self.AD_STRING = ' Goodbye, Please talk to the Rot<a href="{}"> privately.</a>'
 
     def load_config(self):
         logger.debug('Loading config')
@@ -63,10 +63,10 @@ class _Config:
         logger.info('Found gclone: ' + self._path_to_gclone)
 
         if not self._telegram_token:
-            logger.warning('Telegram Bot Token not found.')
+            logger.warning('Telegram Rot Token not found.')
             input("Press Enter to continue...")
             sys.exit(0)
-        logger.info('Found Bot Token: ' + self._telegram_token)
+        logger.info('Found Rot Token: ' + self._telegram_token)
 
         if self._gclone_para_override:
             self._gclone_para_override = self._gclone_para_override.split()

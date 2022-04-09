@@ -1,8 +1,8 @@
-<h1 align="center">✪ CloneBot - Heroku/Railway/Qovery/Clever-Cloud/Scalingo/Okteto Version ❅<br></h1> 
+<h1 align="center">✪ CloneRot - Heroku/Railway/Qovery/Clever-Cloud/Scalingo/Okteto Version ❅<br></h1> 
 
 <br />
 
-<p align="center">CloneBot is a telegram bot that allows you to copy folder/team drive to team drives. One of the main advantage of this bot is that you can host it to Heroku for free.<p/>
+<p align="center">CloneRot is a telegram bot that allows you to copy folder/team drive to team drives. One of the main advantage of this bot is that you can host it to Heroku for free.<p/>
 
 <!-- > ## A simple bot to copy and duplicate team drives -->
 <p align="center">
@@ -36,7 +36,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 ## 💠 Host the bot on your computer
 
---> https://github.com/MsGsuite/CloneBot
+--> https://github.com/suhiymof / Clone_Heroku
 <br/><br/>
 
 ## 📱 Run the bot on your phone using termux
@@ -61,7 +61,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 ## ☂ Deploying on Railway.app
 
 1. For Direct Deploy,Click on the Below Button<br/>
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fsuhiymof%2FClone_Heroku&envs=group_ids%2Ctelegram_token%2Cgclone_para_override%2Cpath_to_gclone%2Cuser_ids&optionalEnvs=gclone_para_override&group_idsDesc=your+telegram+group+ID+%28leave+it+blank+if+you+don%27t+want+to+add+one%29.+To+get+your+group+id%2C+go+to+%40MissRose_bot+and+type+%2Fid&telegram_tokenDesc=go+to+%40BotFather+and+send+%2Fnewbot+to+get+one&gclone_para_overrideDesc=Dont+fill+any+value+for+this+Var&path_to_gcloneDesc=%E2%9A%A0+Don%27t+touch%2Fchange+this+value.+++++++++++++++++++++++++If+you+see+the+value+empty+then+fill+it+as+%27+.%2Fgclone+%27&user_idsDesc=Your+user+id+%28go+to+%40MissRose_bot+and+type+%2Fid+to+get+your+id%29+-+If+you+want+to+authorize+multiple+users%2C+add+a+comma+between+each+ID+%28ex%3A+150654065%2C5897065%29&referralCode=GD5pqS)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fsuhiymof%2FClone_Heroku&envs=group_ids%2Ctelegram_token%2Cgclone_para_override%2Cpath_to_gclone%2Cuser_ids&optionalEnvs=gclone_para_override&group_idsDesc=your+telegram+group+ID+%28leave+it+blank+if+you+don%27t+want+to+add+one%29.+To+get+your+group+id%2C+go+to+%40MissRose_bot+and+type+%2Fid&telegram_tokenDesc=go+to+%40RotFather+and+send+%2Fnewbot+to+get+one&gclone_para_overrideDesc=Dont+fill+any+value+for+this+Var&path_to_gcloneDesc=%E2%9A%A0+Don%27t+touch%2Fchange+this+value.+++++++++++++++++++++++++If+you+see+the+value+empty+then+fill+it+as+%27+.%2Fgclone+%27&user_idsDesc=Your+user+id+%28go+to+%40MissRose_bot+and+type+%2Fid+to+get+your+id%29+-+If+you+want+to+authorize+multiple+users%2C+add+a+comma+between+each+ID+%28ex%3A+150654065%2C5897065%29&referralCode=GD5pqS)
 
 2. Fill the following Environment Values as per below Instructions: 
 
@@ -69,7 +69,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 >
 > group_ids = your telegram group ID (leave it blank if you don't want to add one). To get your group id, go to @MissRose_bot and type /id
 > 
-> telegram_token = go to @BotFather and send /newbot to get one
+> telegram_token = go to @RotFather and send /newbot to get one
 > 
 > gclone_para_override = leave this empty if you don't know how to use it
 >
@@ -97,7 +97,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 >
 > group_ids = your telegram group ID (leave it blank if you don't want to add one). To get your group id, go to @MissRose_bot and type /id
 > 
-> telegram_token = go to @BotFather and send /newbot to get one
+> telegram_token = go to @RotFather and send /newbot to get one
 > 
 > gclone_para_override = leave this empty if you don't know how to use it
 >
@@ -107,17 +107,17 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 ## 💎 Deploying on Clever-Cloud
 
-<a href="https://bit.ly/CloneBot_CleverCloud"><img src="https://img.shields.io/badge/Clever%20Cloud%20Deploy%20Guide-grey?style=for-the-badge&logo=telegraph"></a>
+<a href="https://bit.ly/CloneRot_CleverCloud"><img src="https://img.shields.io/badge/Clever%20Cloud%20Deploy%20Guide-grey?style=for-the-badge&logo=telegraph"></a>
 
-<br>This Service provides enough resources so that the Bot can run for 40 days without the need to add CC.<b><br/>Clever Cloud does not restart App every 24 hours meaning you can clone large data which can run for days at a time </b><br><br>
+<br>This Service provides enough resources so that the Rot can run for 40 days without the need to add CC.<b><br/>Clever Cloud does not restart App every 24 hours meaning you can clone large data which can run for days at a time </b><br><br>
 
 <br>Thanks to [Katarina](https://github.com/tiararosebiezetta) for the addition of this Service.
 
 ## 🗡️ Deploying on Scalingo
 
-[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/tiararosebiezetta/CloneBot_Scalingo)
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/tiararosebiezetta/CloneRot_Scalingo)
 
-<br>This Service provides enough resources so that the Bot can run for 30 days without the need to add CC.<b><br/>Scalingo does not restart App every 24 hours meaning you can clone large data which can run for days at a time </b><br><br>
+<br>This Service provides enough resources so that the Rot can run for 30 days without the need to add CC.<b><br/>Scalingo does not restart App every 24 hours meaning you can clone large data which can run for days at a time </b><br><br>
 
 <br>Thanks to [Katarina](https://github.com/tiararosebiezetta) for the addition of this Service.
 
@@ -129,7 +129,7 @@ You need to fillup the below variables in order to use it in Okteto
 
 > group_ids = your telegram group ID (leave it blank if you don't want to add one). To get your group id, go to @MissRose_bot and type /id
 > 
-> telegram_token = go to @BotFather and send /newbot to get one
+> telegram_token = go to @RotFather and send /newbot to get one
 > 
 > PORT = Add PORT as an environmental variable, and add 8080. Use Cron Job to ping the App every 30 mins else the bot will sleep
 >
@@ -145,7 +145,6 @@ You need to fillup the below variables in order to use it in Okteto
 ## ❤️ Credits & thanks :
 - [wrenfairbank](https://github.com/wrenfairbank/telegram_gcloner) for the original python script
 - [smartass08](https://github.com/smartass08/telegram_gcloner) to adapt the scrip to heroku
-- [anymeofu](https://github.com/anymeofu/CloneBot) for making the Direct Heroku deployable Version
 - Zero-The-Kamisama to making me discover this amazing bot and the detailed instructions
 - [zorgof](https://t.me/zorgof) for the termux script
 - [Aishik Tokdar](https://github.com/aishik2005) for Adding Guide to Deploy on Railway.app , Qovery , Clever Cloud , Scalingo and some other Code Improvements.Also Added Heroku Workflow Deployment Method.

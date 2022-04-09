@@ -11,7 +11,7 @@ RUN apt-get update
 RUN apt-get install -y tzdata
 RUN apt-get -qq update
 RUN apt-get -qq install -y git python3 python3-pip \
-    locales python3-lxml aria2 \
+    locales python3-lxml \
     curl pv jq nginx npm
  
 COPY requirements.txt .

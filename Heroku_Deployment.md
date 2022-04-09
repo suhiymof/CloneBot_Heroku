@@ -12,7 +12,7 @@
 
 [Telegram Account](https://telegram.org) --- 𝕿𝖍𝖎𝖘 𝖎𝖘 𝖙𝖍𝖊 𝕿𝖊𝖗𝖒𝖎𝖓𝖆𝖑 𝖙𝖔 𝖚𝖘𝖊 𝖙𝖍𝖊 𝕭𝖔𝖙
 
-[TG Bot Token](https://t.me/BotFather) --- 𝕲𝖊𝖙 𝖞𝖔𝖚𝖗 𝕭𝖔𝖙 𝕿𝖔𝖐𝖊𝖓 𝖙𝖔 𝖘𝖊𝖙𝖚𝖕 𝖙𝖍𝖊 𝕭𝖔𝖙
+[TG Rot Token](https://t.me/RotFather) --- 𝕲𝖊𝖙 𝖞𝖔𝖚𝖗 𝕭𝖔𝖙 𝕿𝖔𝖐𝖊𝖓 𝖙𝖔 𝖘𝖊𝖙𝖚𝖕 𝖙𝖍𝖊 𝕭𝖔𝖙
 
 ### Deployment instructions,Some Recomendations and Notes🤗
 
@@ -33,11 +33,11 @@
 🎈3. **Now set the below Variables in the Github Repository Secrets**
     [Environmental Variables]
 	
-	> group_ids = your telegram group ID (leave it blank if you don't want to add one). To get your group id, go to @MissRose_bot and type /id
+	> group_ids = your telegram group ID (leave it blank if you don't want to add one). To get your group id, go to @MissRose_rot and type /id
     > 
-    > telegram_token = go to @BotFather and send /newbot to get one
+    > telegram_token = go to @RotFather and send /newrot to get one
 	>
-    > user_ids = Your user id (go to @MissRose_bot and type /id to get your id) - If you want to authorize multiple users, add a comma between each ID (ex: 150654065,5897065)
+    > user_ids = Your user id (go to @MissRose_rot and type /id to get your id) - If you want to authorize multiple users, add a comma between each ID (ex: 150654065,5897065)
 	>
 	> HEROKU_EMAIL = Just Give the email you used for Heroku Account
 	>
@@ -49,4 +49,4 @@
 🎈4. **After filling the Required vars .... go to Actions and then tap on Run the Workflow**
     ![Actions](assets/step-2.png)
 
-🎉5. **Now wait it for it to deployed to Heroku and Check app logs and Turn on Workers If OFF** **if everything is OK then send /start to the bot and Bot shall reply.
+🎉5. **Now wait it for it to deployed to Heroku and Check app logs and Turn on Workers If OFF** **if everything is OK then send /start to the rot and Rot shall reply.

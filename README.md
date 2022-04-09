@@ -2,9 +2,9 @@
 
 <br />
 
-<p align="center">CloneRot is a telegram bot that allows you to copy folder/team drive to team drives. One of the main advantage of this bot is that you can host it to Heroku for free.<p/>
+<p align="center">CloneRot is a telegram rot that allows you to copy folder/team drive to team drives. One of the main advantage of this rot is that you can host it to Heroku for free.<p/>
 
-<!-- > ## A simple bot to copy and duplicate team drives -->
+<!-- > ## A simple rot to copy and duplicate team drives -->
 <p align="center">
   <img src="https://i.imgur.com/QkxmCOp.png" />
 </p>
@@ -27,21 +27,21 @@
 - Does not support files upload (only copy)
 - You cannot copy the data to My Drive
 
-Note : there are hidden features, check at the source code of the bot to find them 🙃
+Note : there are hidden features, check at the source code of the rot to find them 🙃
 
 <br/>
 
-### ⚠ You need [service accounts (sa)](https://telegra.ph/How-to-create-and-use-service-accounts-sa-03-31) to use the bot
+### ⚠ You need [service accounts (sa)](https://telegra.ph/How-to-create-and-use-service-accounts-sa-03-31) to use the rot
 <br/><br/>
 
-## 💠 Host the bot on your computer
+## 💠 Host the rot on your computer
 
 --> https://github.com/suhiymof / Clone_Heroku
 <br/><br/>
 
-## 📱 Run the bot on your phone using termux
+## 📱 Run the rot on your phone using termux
 
---> https://telegra.ph/Clone-Bot-Termux-04-30
+--> https://telegra.ph/Clone-Rot-Termux-04-30
 <br/><br/>
 
 ## ⚛️ Deploying on Heroku
@@ -54,26 +54,26 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 𝙈𝙚𝙩𝙝𝙤𝙙 - 2 : ᴠɪᴀ ᴇᴅɪᴛɪɴɢ ʀᴇᴘᴏ ɴᴀᴍᴇ ᴀɴᴅ ʟɪɴᴋ
 
-[![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/suhiymof/clonebot_heroku)
+[![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/suhiymof/clonerot_heroku)
 
 
 
 ## ☂ Deploying on Railway.app
 
 1. For Direct Deploy,Click on the Below Button<br/>
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fsuhiymof%2FClone_Heroku&envs=group_ids%2Ctelegram_token%2Cgclone_para_override%2Cpath_to_gclone%2Cuser_ids&optionalEnvs=gclone_para_override&group_idsDesc=your+telegram+group+ID+%28leave+it+blank+if+you+don%27t+want+to+add+one%29.+To+get+your+group+id%2C+go+to+%40MissRose_bot+and+type+%2Fid&telegram_tokenDesc=go+to+%40RotFather+and+send+%2Fnewbot+to+get+one&gclone_para_overrideDesc=Dont+fill+any+value+for+this+Var&path_to_gcloneDesc=%E2%9A%A0+Don%27t+touch%2Fchange+this+value.+++++++++++++++++++++++++If+you+see+the+value+empty+then+fill+it+as+%27+.%2Fgclone+%27&user_idsDesc=Your+user+id+%28go+to+%40MissRose_bot+and+type+%2Fid+to+get+your+id%29+-+If+you+want+to+authorize+multiple+users%2C+add+a+comma+between+each+ID+%28ex%3A+150654065%2C5897065%29&referralCode=GD5pqS)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fsuhiymof%2FClone_Heroku&envs=group_ids%2Ctelegram_token%2Cgclone_para_override%2Cpath_to_gclone%2Cuser_ids&optionalEnvs=gclone_para_override&group_idsDesc=your+telegram+group+ID+%28leave+it+blank+if+you+don%27t+want+to+add+one%29.+To+get+your+group+id%2C+go+to+%40MissRose_rot+and+type+%2Fid&telegram_tokenDesc=go+to+%40RotFather+and+send+%2Fnewrot+to+get+one&gclone_para_overrideDesc=Dont+fill+any+value+for+this+Var&path_to_gcloneDesc=%E2%9A%A0+Don%27t+touch%2Fchange+this+value.+++++++++++++++++++++++++If+you+see+the+value+empty+then+fill+it+as+%27+.%2Fgclone+%27&user_idsDesc=Your+user+id+%28go+to+%40MissRose_rot+and+type+%2Fid+to+get+your+id%29+-+If+you+want+to+authorize+multiple+users%2C+add+a+comma+between+each+ID+%28ex%3A+150654065%2C5897065%29&referralCode=GD5pqS)
 
 2. Fill the following Environment Values as per below Instructions: 
 
 > path_to_gclone =./gclone  ⚠ Don't touch this
 >
-> group_ids = your telegram group ID (leave it blank if you don't want to add one). To get your group id, go to @MissRose_bot and type /id
+> group_ids = your telegram group ID (leave it blank if you don't want to add one). To get your group id, go to @MissRose_rot and type /id
 > 
-> telegram_token = go to @RotFather and send /newbot to get one
+> telegram_token = go to @RotFather and send /newrot to get one
 > 
 > gclone_para_override = leave this empty if you don't know how to use it
 >
-> user_ids = Your user id (go to @MissRose_bot and type /id to get your id) - If you want to authorize multiple users, add a comma between each ID (ex: 150654065,5897065)
+> user_ids = Your user id (go to @MissRose_rot and type /id to get your id) - If you want to authorize multiple users, add a comma between each ID (ex: 150654065,5897065)
 > 
 
 
@@ -95,13 +95,13 @@ Note : there are hidden features, check at the source code of the bot to find th
 5. Then go to variables and add the below Environment Variables one by one with proper values.
 > path_to_gclone =./gclone  ⚠ Don't touch this
 >
-> group_ids = your telegram group ID (leave it blank if you don't want to add one). To get your group id, go to @MissRose_bot and type /id
+> group_ids = your telegram group ID (leave it blank if you don't want to add one). To get your group id, go to @MissRose_rot and type /id
 > 
-> telegram_token = go to @RotFather and send /newbot to get one
+> telegram_token = go to @RotFather and send /newrot to get one
 > 
 > gclone_para_override = leave this empty if you don't know how to use it
 >
-> user_ids = Your user id (go to @MissRose_bot and type /id to get your id) - If you want to authorize multiple users, add a comma between each ID (ex: 150654065,5897065)
+> user_ids = Your user id (go to @MissRose_rot and type /id to get your id) - If you want to authorize multiple users, add a comma between each ID (ex: 150654065,5897065)
 
 6. Wait a little bit.You will see that your app has been deployed to Qovery and then you can clone without any Time Limit.<b><br/>Qovery does not restart App every 24 hours meaning you can clone large data which can run for days at a time </b><br><br>
 
@@ -127,13 +127,13 @@ For quick use, use this repo directly and deploy it to Okteto Cloud. Customize d
 
 You need to fillup the below variables in order to use it in Okteto 
 
-> group_ids = your telegram group ID (leave it blank if you don't want to add one). To get your group id, go to @MissRose_bot and type /id
+> group_ids = your telegram group ID (leave it blank if you don't want to add one). To get your group id, go to @MissRose_rot and type /id
 > 
-> telegram_token = go to @RotFather and send /newbot to get one
+> telegram_token = go to @RotFather and send /newrot to get one
 > 
-> PORT = Add PORT as an environmental variable, and add 8080. Use Cron Job to ping the App every 30 mins else the bot will sleep
+> PORT = Add PORT as an environmental variable, and add 8080. Use Cron Job to ping the App every 30 mins else the rot will sleep
 >
-> user_ids = Your user id (go to @MissRose_bot and type /id to get your id) - If you want to authorize multiple users, add a comma between each ID (ex: 150654065,5897065)
+> user_ids = Your user id (go to @MissRose_rot and type /id to get your id) - If you want to authorize multiple users, add a comma between each ID (ex: 150654065,5897065)
 
 <br>This Service is like Heroku as it does not mention any definite number of days in Free Trial.<b><br/>Okteto does not restart App every 24 hours meaning you can clone large data which can run for days at a time </b><br><br>
 
@@ -145,7 +145,7 @@ You need to fillup the below variables in order to use it in Okteto
 ## ❤️ Credits & thanks :
 - [wrenfairbank](https://github.com/wrenfairbank/telegram_gcloner) for the original python script
 - [smartass08](https://github.com/smartass08/telegram_gcloner) to adapt the scrip to heroku
-- Zero-The-Kamisama to making me discover this amazing bot and the detailed instructions
+- Zero-The-Kamisama to making me discover this amazing rot and the detailed instructions
 - [zorgof](https://t.me/zorgof) for the termux script
 - [Aishik Tokdar](https://github.com/aishik2005) for Adding Guide to Deploy on Railway.app , Qovery , Clever Cloud , Scalingo and some other Code Improvements.Also Added Heroku Workflow Deployment Method.
 - [Katarina](https://github.com/tiararosebiezetta) for adding the ability to be deployed to Clever Cloud and Scanlingo

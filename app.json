@@ -8,7 +8,7 @@
         "success_url": "https://github.com/suhiymof/Clone_Heroku/blob/master/README.md",
 	"env": {
 		"telegram_token": {
-			"description": "Get from Telegram @Botfather."
+			"description": "Get from Telegram @Rotfather."
 		},
 		"user_ids": {
 			"description": "Your user id. (If you want to add more than 1 User, give IDs seperated by ',').The First user is the Admin"
